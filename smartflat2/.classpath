@@ -9,17 +9,17 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="org.eclipse.e4.xwt.forms_0.9.1.SNAPSHOT.jar" sourcepath="org.eclipse.e4.xwt.forms.source_0.9.1.SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Stephen/Desktop/eclipse/plugins/org.eclipse.core.databinding_1.4.1.v20140214-0004.jar" sourcepath="JAR_Files">
+	<classpathentry kind="lib" path="C:/Users/Stephen/git/smartflat2/smartflat2/JAR_Files/org.eclipse.core.databinding_1.4.1.v20140214-0004.jar" sourcepath="JAR_Files">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="smartflat2/JAR_Files"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Stephen/git/smartflat2/smartflat2/JAR_Files/org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar" sourcepath="C:/Users/Stephen/Desktop/eclipse/plugins/org.eclipse.core.databinding.observable.source_1.4.1.v20140210-1835.jar">
 		<attributes>
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="smartflat2"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Stephen/Desktop/eclipse/plugins/org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar" sourcepath="C:/Users/Stephen/Desktop/eclipse/plugins/org.eclipse.core.databinding.observable.source_1.4.1.v20140210-1835.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="smartflat2"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Stephen/Desktop/eclipse/plugins/org.eclipse.jface.databinding_1.6.200.v20140528-1422.jar" sourcepath="C:/Users/Stephen/Desktop/eclipse/plugins/org.eclipse.jface.databinding.source_1.6.200.v20140528-1422.jar">
+	<classpathentry kind="lib" path="C:/Users/Stephen/git/smartflat2/smartflat2/JAR_Files/org.eclipse.jface.databinding_1.6.200.v20140528-1422.jar" sourcepath="C:/Users/Stephen/Desktop/eclipse/plugins/org.eclipse.jface.databinding.source_1.6.200.v20140528-1422.jar">
 		<attributes>
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="smartflat2"/>
 		</attributes>
@@ -29,7 +29,7 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="smartflat2"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Stephen/Desktop/sqlite-jdbc4-3.8.2-SNAPSHOT.jar">
+	<classpathentry kind="lib" path="C:/Users/Stephen/git/smartflat2/smartflat2/JAR_Files/sqlite-jdbc4-3.8.2-SNAPSHOT.jar">
 		<attributes>
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="smartflat2"/>
 		</attributes>
