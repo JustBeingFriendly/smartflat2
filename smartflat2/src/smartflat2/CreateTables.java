@@ -9,7 +9,7 @@ public class CreateTables {
 		outputInfo = null;
 	}
 	
-	protected String createTables()
+	protected String createTables() 
 	  {
 	    Connection c = null;
 	    Statement stmt = null;
