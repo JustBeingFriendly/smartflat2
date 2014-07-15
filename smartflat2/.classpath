@@ -29,7 +29,7 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="smartflat2"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Stephen/git/smartflat2/smartflat2/JAR_Files/sqlite-jdbc4-3.8.2-SNAPSHOT.jar">
+	<classpathentry kind="lib" path="C:/Users/Stephen/git/smartflat2/smartflat2/JAR_Files/sqlite-jdbc-3.7.2.jar">
 		<attributes>
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="smartflat2"/>
 		</attributes>
