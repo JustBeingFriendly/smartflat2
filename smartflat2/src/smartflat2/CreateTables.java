@@ -1,15 +1,15 @@
 package smartflat2;
 import java.sql.*;
 
-public class CreateTables {
+class CreateTables {
 	
 	private String outputInfo; 
 	
-	public CreateTables(){
+	CreateTables(){
 		outputInfo = null;
 	}
 	
-	protected String createTables() 
+	String createTables() 
 	  {
 	    Connection c = null;
 	    Statement stmt = null;
